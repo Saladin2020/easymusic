@@ -1,0 +1,13 @@
+{
+  "format": "easymusic/1",
+  "th": "เช้าวันเรียนตาดีกา",
+  "en": "Tadika morning: village day with a flute lead and soft kompang",
+  "base": "village_day",
+  "set": {
+    "seed": 2024,
+    "lead.instrument": "flute",
+    "5.instrument": "kompang",
+    "5.volume": 0.7,
+    "energy": 0.35
+  }
+}

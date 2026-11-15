@@ -1,0 +1,12 @@
+{
+  "format": "easymusic/1",
+  "th": "บอสระนาด เสียงไทยเจ็ดเสียง",
+  "en": "Boss fight in Thai 7-tone tuning: battle_ranat, darker mode, faster",
+  "base": "battle_ranat",
+  "set": {
+    "tuning": "thai7",
+    "mode": "la",
+    "bpm": 160,
+    "seed": 3
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "format": "easymusic/1",
+  "th": "ตลาดนัดกลางคืน",
+  "en": "Night market (pasar malam): market bustle in the folk mode, a little swing",
+  "base": "market_bustle",
+  "set": {
+    "mode": "sol",
+    "bpm": 118,
+    "swing": 0.12,
+    "seed": 77,
+    "lead.instrument": "khim",
+    "counter.instrument": "ranat"
+  }
+}
